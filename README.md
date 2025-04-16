@@ -1,8 +1,8 @@
-# 🏥 Hip Replacement Surgery Insights Dashboard – Health Stats
+# 🏥 Hip Replacement Surgery Insights Dashboard – Health Stat
 
 ## 📊 Project Overview
 
-This project delivers a data-driven analysis of **hip replacement surgeries** using Power BI for **Health Stats**, a healthcare client focused on improving operational efficiency and patient outcomes. The dashboard uncovers insights related to surgical volume, patient demographics, complications, and geographical trends.
+This project delivers a data-driven analysis of **hip replacement surgeries** using Power BI for **Health Stat**, a healthcare client focused on improving operational efficiency and patient outcomes. The dashboard uncovers insights related to surgical volume, patient demographics, complications, and geographical trends.
 
 ---
 
@@ -49,11 +49,11 @@ To provide actionable insights into hip replacement surgery trends that support 
 
 ## 🖼️ Dashboard Preview
 
-- **Power BI File**    (Filename: HealthStats.pbix)
-- **PDF Report**       (Filename: HealthStats.pdf)
+- **Power BI File**    (Filename: HealthStat_Analysis.pbix)
+- **PDF Report**       (Filename: HealthStat_Analysis.pdf)
 
-## 🤝 Client Profile: Health Stats
-Health Stats is a health insights consultancy focused on enabling hospitals, care centers, and policymakers to leverage data for smarter decisions. This project helps them:
+## 🤝 Client Profile: Health Stat
+Health Stat is a health insights consultancy focused on enabling hospitals, care centers, and policymakers to leverage data for smarter decisions. This project helps them:
 
 - Monitor patient outcomes
 - Compare performance across regions
